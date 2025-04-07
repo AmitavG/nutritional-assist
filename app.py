@@ -67,12 +67,12 @@ Meal Name: [Name of the meal]
 ----
 Total estimated calories: X
 
-Finally, mention whether the food is healthy or not, 
-and provide the percentage split of protein, carbs, and fats in the food item. 
-Also, mention the total fiber content in the food item and any other important details.
+Provide the percentage split of protein, carbs, and fats in the food item. 
+Also, mention the total fiber content in the food item.
 
 Note: Always identify ingredients and provide an estimated calorie count, 
 even if some details are uncertain.
+And dont mention any other information, this is enough.
 """
 
 if submit:
